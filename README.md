@@ -10,7 +10,7 @@ Projet réalisé dans le but de s'améliorer en algorithmie, logique de jeu, et 
 - 🟢 Mouvement libre du serpent (touches `Z`, `Q`, `S`, `D`)
 - 🍎 Système de fruit aléatoire
 - 🧠 Gestion du score
-- 💀 Collision avec soi-même(pas fait) ou les murs = Game Over
+- 💀 Collision avec soi-même ou les murs = Game Over
 - 🔁 Boucle de jeu fluide avec affichage dynamique en console
 
 ---
