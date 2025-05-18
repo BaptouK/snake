@@ -96,6 +96,11 @@ int main() {
         }
 
         system("cls");
+        for (auto i = 1; i < snake.getCoord().size(); i++) {
+            if (snake.getHead()==snake.getCoord()[i]) {
+                input='e';
+            }
+        }
 
         if (array[snake.getHead().first][snake.getHead().second] == '#') {
             //std::cout <<snake.getHead().first << " " << snake.getHead().second << std::endl;
